@@ -1,2 +1,2 @@
 Author : Akash Tripathi
-B.Tech CSE, DIT University
+Software Developer @ Barclays
